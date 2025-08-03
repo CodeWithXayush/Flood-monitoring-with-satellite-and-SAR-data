@@ -46,8 +46,17 @@ Time-to-Alert	Pipeline	Responsiveness during real events
 - Add live sensor feeds (e.g., river gauges, weather stations)
 - Deploy in a disaster response testbed with a real-time API
 # References
-•	India Flood Inventory (Saharia et al., 2021): https://doi.org/10.1007/s11069-021-04698-6
-•	District-Level Flood Index (Baishya et al., 2024): https://arxiv.org/abs/2405.01602
-•	Sen2FloodNet Paper (MDPI, 2022): https://www.mdpi.com/2072-4292/14/2/428
-•	CHIRPS Dataset - UCSB: https://www.chc.ucsb.edu/data/chirps
-•	Flan-T5 - Google Research (2022): https://arxiv.org/abs/2210.11416
+•	India Flood Inventory (Saharia et al., 2021):
+https://doi.org/10.1007/s11069-021-04698-6
+
+•	District-Level Flood Index (Baishya et al., 2024):
+https://arxiv.org/abs/2405.01602
+
+•	Sen2FloodNet Paper (MDPI, 2022):
+https://www.mdpi.com/2072-4292/14/2/428
+
+•	CHIRPS Dataset - UCSB:
+https://www.chc.ucsb.edu/data/chirps
+
+•	Flan-T5 - Google Research (2022):
+https://arxiv.org/abs/2210.11416
